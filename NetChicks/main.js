@@ -1,0 +1,1 @@
+alert("This is an adult website, proceed with caution.\n\nPlease press OK if you are over 18.")
